@@ -1,0 +1,11 @@
+@media (max-width: 1599px) {
+  .ViewPortWidth {
+    width: 92vw;
+  }
+}
+
+@media (min-width: 1600px) {
+  .ViewPortWidth {
+    width: 93vw;
+  }
+}

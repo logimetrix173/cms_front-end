@@ -1,0 +1,4 @@
+.rotateLegend {
+  transform: rotate(270deg);
+  display: inline-block;
+}

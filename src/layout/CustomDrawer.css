@@ -1,0 +1,19 @@
+.notificationsPaperBackground {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.notificationsPaperBackgroundDark {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.doubleArrowIconRight {
+  transform: rotate(0deg);
+}
+
+.doubleArrowIconLeft {
+  transform: rotate(180deg);
+}
+
+.textarea:focus {
+  outline: none;
+}
